@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-	cout<<"Hi World"<<endl;
+	cout<<"Star Wars"<<endl;
 	
 return 0;	
 }
